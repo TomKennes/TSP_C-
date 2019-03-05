@@ -5,3 +5,5 @@ Implementations of Travelling Salesman using several well-known heuristics:
 - Random Tour
 - Farthest Neighbor
 - Nearest Neighbor
+
+Next to that, it contains code that implements various shortest path algorithms under various edge constraints.
